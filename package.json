@@ -1,0 +1,24 @@
+{
+  "name": "discord-shannon-sharpe-lakers5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tien96ng/discord-shannon-sharpe-lakers5.git"
+  },
+  "keywords": ["Lakers in 5"],
+  "author": "Tien Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tien96ng/discord-shannon-sharpe-lakers5/issues"
+  },
+  "homepage": "https://github.com/Tien96ng/discord-shannon-sharpe-lakers5#readme",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7"
+  }
+}
