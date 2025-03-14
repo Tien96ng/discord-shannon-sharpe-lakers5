@@ -83,7 +83,23 @@ const quoteArr = [
     ["Sonic the Hedgehog", "Lost in a bog", "Tripped on a log"],
     ["Walter White", "Started a fight", "Took a flight"],
     ["The Kool-Aid Man", "Flew to Iran", "Tripped on a pan"],
-    ["Dora the Explorer", "Yelled ‘NO MORE-A’", "Kicked down the door-a"]
+    ["Dora the Explorer", "Yelled ‘NO MORE-A’", "Kicked down the door-a"],
+    ["Shoutout to Taco Bell", "She said she was 12", "That’s my Michelle"],
+    ["D-Wade", "Luka Trade", "Gatorade"],
+    ["6’7", "9/11",	"She was only 7"],
+    ["Zion ate it", "AD sprained it", "Wait that’s our ball ain’t it"],
+    ["2 Chainz", "Raisin canes", "Blocked by James"],
+    ["Nancy Grace", "Beat the case", "Without a trace"],
+    ["Lil Weezy", "Lemon squeezy", "Come on man that’s too easy"],
+    ["Steph curry", "McFlurry", "My dad left me in a hurry"],
+    ["Kyrie Irving", "Mavs hurting", "Gelo swerving"],
+    ["Winnie the Pooh", "Where is my shoe", "Cleveland this is for YOUUU"],
+    ["Sexy Power", "Rosemary flower", "They just hit the second tower"],
+    ["Shannon sharpe", "Tony Stark", "Play in the park"],
+    ["Josh Giddey", "Hit the griddy", "Someone come get diddy"]
 ];  
 
 module.exports = quoteArr;
+
+
+
