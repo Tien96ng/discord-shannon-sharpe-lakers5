@@ -51,7 +51,7 @@ const quoteArr = [
     ["Yoda's tea", "Wookiee flea", "Burned his knee"],
     ["Rick Astley", "Dancing nastily", "Dressed so ghastly"],
     ["Pikachu", "Stinky shoe", "Mountain dew"],
-    ["DJ Khaled", "Ate a salad", "Tripped in a ball pit"],
+    ["DJ Khaled", "Ate a salad", "Yo momma ugly and invalid"],
     ["Jack Black", "Ate a Big Mac", "Wrestled a yak"],
     ["Post Malone", "Lost his phone", "Fell off a throne"],
     ["Morgan Freeman", "Laughed like a demon", "Turned into a seaman"],
