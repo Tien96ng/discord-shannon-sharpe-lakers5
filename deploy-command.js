@@ -1,10 +1,17 @@
-const { REST, Routes } = require('discord.js');
+const { REST, Routes, SlashCommandBuilder } = require('discord.js');
 const fs = require('node:fs');
 const path = require('node:path');
 require("dotenv").config();
 
 
-const commands = [];
+// const commands = [];
+
+const commands = [
+    new SlashCommandBuilder()
+        .setName('gif')
+        .setDescription('Replies with a GIF and a message!')
+].map(command => command.toJSON());
+
 // Grab all the command folders from the commands directory you created earlier
 const foldersPath = path.join(__dirname, 'commands');
 const commandFolders = fs.readdirSync(foldersPath);
