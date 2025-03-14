@@ -17,5 +17,5 @@ module.exports = {
 
 const rndNum = (arr) => Math.floor(Math.random() * arr.length);
 
-const randomQuote = () => quoteArr[rndNum(quoteArr)].join(", ").concat(" ... \nLAKERS IN 5!");
-const randomGif = () => uncGifArr[rndNum(uncGifArr)].concat(".gif");
+const randomQuote = () => quoteArr[rndNum(quoteArr)].join(", ").concat(" ... \n \nLAKERS IN 5!").toString();
+const randomGif = () => uncGifArr[rndNum(uncGifArr)].concat(".gif").toString();
